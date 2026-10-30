@@ -1,0 +1,18 @@
+plt.plot():it coordinate the both data
+plt.subplot(rows,column,position)
+plt.title('title'):used to set title
+plt.xlabel('x-axis'),plt.ylabel('y-axis)
+plt.show():used for view ploting
+data:data in ntg raw data .it has 2 types
+1.categorical data:
+2.numeric data:a.discrete data b.continuous data
+descrete data : counted data
+continuous data: 
+bar plot:bargraphs are one of most common type and use bar() fun for bargraphs accepte arguments are categforical variables,colours,value
+barh():for horizontal graph
+bar():for vertical graph
+plt.xticks():to change x labes like data1 in 1 
+plt.yticks():to change y labes like data1 in 1 
+*bar is used to compare d/f entities(like categorical&numerical and descrete&measurement)
+for distrbution used histogram ,it also plot
+

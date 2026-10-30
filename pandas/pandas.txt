@@ -1,0 +1,21 @@
+pandas is library used for working with datasets
+it has functions for analysing,cleaning,exploring,manipulating,..
+why pandas:bigdata is handle by pandas and it allows us to analyse big data and make conclusionsbased on statistical theories
+it can clean messy datasets and them readable and relavent
+relavent DATA IS VERY IMPORTANT IN DATA SCIENCE
+PANDAS:powerful for data analyst
+pandas :python data analysis library"
+data wrangling : it is also called data cleaning,data remediation or data munging
+dataframe:pandas dataframe is 2d data structure,like 2d array or table with rows&columns
+axis=0(column) and axis=1(row)
+inplace() it used for parminent store
+isnull() used to find null and isnull().sum() used to find number of nulls
+fillna(value='') is used for none replace with value
+ drop([indes]) used for delete 
+ group by: when it is apply then it splits and we apply specific function for result
+ transpose():change row into columns and columns into rows
+ get dummies:used to convert catogorical data into numerical data (use machine learning for this)
+ catogorical data: example boy&girl ,male&female,bloodgroups,child&teenage&adult&oldage,......these are catogiries
+ drop duplicates():used for delete duplicates
+ ignore_index=True:used for correct index
+ Catagorical():used find number of catagories and what is that

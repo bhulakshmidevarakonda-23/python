@@ -1,0 +1,23 @@
+numpy:it is numerical operations and used on arrays and operation and si tific operations
+in python use list instead of array
+array is not in python ,this is only use in c,c++,..
+arrrays are not the in built data structure readily available in python
+array store similar data type elements(homogeneous)
+1.arange function 
+2.eye function:take parameter and give arrays (rows,dtype=int por string,,)
+3.zero function
+4.ones function (total ones return rows columns)
+5.full function((rows,columns),num,dtype) full with num all
+6.daig function(ex=[1,2,3] then 3 rows and 3 columns and fill 1,2,3 daigonals)
+*d/f b/w copy&view ,copy is new array and view is just a view a of original array
+*copy owns data and any changes made to copy will not affect original array
+*view doesnot own the data and any changes made to view will affect original array
+*transpose():change columns into rows and rows into columns
+*hstack and vstack
+hstack:along rows and vstack:along columns
+np.insert(array,position,value)
+np.delete(array,position)
+*trignometrics
+np.tan(array)# array lo vslue ki tan values apply avutay
+np.sum(array,axis=0)#sum row wise
+np.sum(array,axis=1)#sum column wise
